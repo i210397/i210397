@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Studying&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Studying...&fontSize=80)
 
-[![i210397's GitHub stats](https://github-readme-stats.vercel.app/api?username=i210397)](https://github.com/anuraghazra/github-readme-stats)
+[![i210397's GitHub stats](https://github-readme-stats.vercel.app/api?username=i210397&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# _Skill_
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i210397&langs_count=8)](https://github.com/i210397/github-readme-stats)
+
+# _Studying_
 ----
 
 ## Language
@@ -69,4 +71,5 @@
 참고: https://blog.naver.com/mingddomingddo/223177312966
 https://blog.naver.com/ars970207/223070771119
 https://github.com/Ileriayo/markdown-badges
+https://yoon990.tistory.com/38
 --->
