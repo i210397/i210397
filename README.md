@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i210397&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=i210397&theme=tokyonight&show_icons=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=i210397&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
 # _Studying_
