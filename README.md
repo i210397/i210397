@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Studying...&fontSize=80)
 
-[![i210397's GitHub stats](https://github-readme-stats.vercel.app/api?username=i210397&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i210397&langs_count=8)](https://github.com/i210397/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i210397&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=i210397&theme=tokyonight&show_icons=true" width="40%" />
+</a>
 
 # _Studying_
 ----
