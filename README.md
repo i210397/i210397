@@ -1,11 +1,11 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Studying...&fontSize=80)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i210397&exclude_repo=dkssud8150.github.io&layout=compact&theme=dracula" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=i210397&theme=dracula&show_icons=true"/>
-</a>
+![i210397's GitHub stats](https://github-readme-stats.vercel.app/api?username=i210397&count_private=true&hide_border=true&show_icons=true&theme=dracula&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i210397&langs_count=6&theme=dracula)](https://github.com/i210397/github-readme-stats)
+
 
 # _Studying_
 ----
@@ -80,3 +80,5 @@ https://github.com/Ileriayo/markdown-badges
 https://yoon990.tistory.com/38
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 --->
+
+</div>
